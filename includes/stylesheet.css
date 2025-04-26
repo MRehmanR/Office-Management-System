@@ -1,0 +1,80 @@
+html{
+    background-image: url('bg.jpg');
+    font-family: serif!important;
+}
+.div_footer{
+    padding: 10px;
+    background-color: #333333;
+    color: wheat;
+    position: fixed;
+    bottom: 0; 
+    width: 100%;  
+}
+
+.div_index{
+    
+}
+
+.contact_img{
+    width: 50px;
+    height: 50px;
+}
+
+.text-white{
+    color: white;
+}
+
+.input_window{
+    background: #003333;
+    border: 1px solid black;
+    box-shadow: 0px 0px 20px grey;
+}
+
+.input_window label{
+    color: wheat;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: serif;
+    color: wheat;
+    text-shadow: 2px 2px 5px green;
+}
+
+.table_css{
+    background:  #333333; 
+    color: white;
+    box-shadow: wheat 0px 0px 5px 1px; 
+
+}
+
+.text-red{
+    color: red;
+}
+
+.div_opt{
+    background: cornflowerblue; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px; 
+    border: 1px solid grey; 
+    border-radius: 10px;
+    display: block;
+}
+
+td, th{
+    text-align: center;
+     vertical-align: middle!important;
+}
+
+th{
+    background: black;
+}
+
+
+div{
+    font-family: sans;
+}
+
+table tr:hover{
+    background-color: #006666 !important;
+}
